@@ -8,6 +8,8 @@ Libraries - OpenCV
 Other requirement have been provided in this repository.
 
 for this download this 2 from cmd:
+
    pip install opencv-python-headless
+   
    pip install opencv-python
 
